@@ -1,0 +1,5 @@
+from myapp.models import Post
+from django.utils import timezone
+p=Post(message='첫 번째 메시지 생성', created_at=timezone.now(), updated_at=timezone.now())
+p=Post(message='두 번째 메시지 생성', created_at=timezone.now(), updated_at=timezone.now())
+p=Post(message='세 번째 메시지 생성', created_at=timezone.now(), updated_at=timezone.now())
