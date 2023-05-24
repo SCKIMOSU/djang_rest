@@ -1,1 +1,1 @@
-# djang_rest
+# django_rest
