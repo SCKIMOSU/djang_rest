@@ -1,1 +1,1 @@
-week 13 class : use ModelViewSet
+week 13 for the class of Web Service : use ModelViewSet
